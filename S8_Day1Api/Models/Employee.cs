@@ -7,5 +7,6 @@
         public double Salary { get; set; }
 
         public Department? Department { get; set; }
+        public int MyProperty { get; set; }
     }
 }
