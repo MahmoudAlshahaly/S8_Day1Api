@@ -11,5 +11,6 @@
         public int MyProperty { get; set; }
         public int MyProperty1 { get; set; }
         public int  CATEGORY { get; set; }
+        public int MyProperty4 { get; set; }
     }
 }
